@@ -1,0 +1,63 @@
+,location,iso_code,vaccines,last_observation_date
+1,andorra,AND,Pfizer/BioNTech,2021-02-01
+3,austria,AUT,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-10
+4,bahrain,BHR,"Pfizer/BioNTech, Sinopharm/Beijing",2021-02-10
+6,belgium,BEL,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-09
+7,bermuda,BMU,Pfizer/BioNTech,2021-02-06
+10,bulgaria,BGR,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-10
+11,canada,CAN,"Moderna, Pfizer/BioNTech",2021-02-10
+12,cayman islands,CYM,Pfizer/BioNTech,2021-02-10
+13,chile,CHL,"Pfizer/BioNTech, Sinovac",2021-02-09
+15,costa rica,CRI,Pfizer/BioNTech,2021-02-08
+16,croatia,HRV,Pfizer/BioNTech,2021-02-09
+17,cyprus,CYP,Pfizer/BioNTech,2021-02-05
+18,czechia,CZE,"Moderna, Pfizer/BioNTech",2021-02-10
+19,denmark,DNK,"Moderna, Pfizer/BioNTech",2021-02-09
+20,ecuador,ECU,Pfizer/BioNTech,2021-02-04
+22,england,,"Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-09
+23,estonia,EST,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-10
+24,faeroe islands,FRO,Pfizer/BioNTech,2021-02-10
+25,finland,FIN,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-10
+26,france,FRA,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-09
+27,germany,DEU,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-09
+28,gibraltar,GIB,Pfizer/BioNTech,2021-02-09
+29,greece,GRC,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-10
+30,greenland,GRL,Pfizer/BioNTech,2021-01-27
+31,guernsey,GGY,Pfizer/BioNTech,2021-01-24
+32,hungary,HUN,Pfizer/BioNTech,2021-02-09
+33,iceland,ISL,"Moderna, Pfizer/BioNTech",2021-02-08
+36,ireland,IRL,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-07
+37,isle of man,IMN,"Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-10
+38,israel,ISR,"Moderna, Pfizer/BioNTech",2021-02-10
+39,italy,ITA,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-10
+40,jersey,JEY,Pfizer/BioNTech,2021-01-31
+41,kuwait,KWT,Pfizer/BioNTech,2021-01-26
+42,latvia,LVA,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-09
+43,liechtenstein,LIE,"Moderna, Pfizer/BioNTech",2021-02-03
+44,lithuania,LTU,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-10
+45,luxembourg,LUX,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-09
+47,malta,MLT,Pfizer/BioNTech,2021-02-10
+48,mexico,MEX,Pfizer/BioNTech,2021-02-10
+49,monaco,MCO,Pfizer/BioNTech,2021-01-18
+53,netherlands,NLD,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-10
+54,northern cyprus,OWID_NCY,"Pfizer/BioNTech, Sinovac",2021-01-22
+55,northern ireland,,"Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-09
+56,norway,NOR,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-09
+57,oman,OMN,"Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-10
+58,panama,PAN,Pfizer/BioNTech,2021-01-24
+60,poland,POL,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-09
+61,portugal,PRT,"Moderna, Pfizer/BioNTech",2021-02-10
+62,romania,ROU,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-10
+65,saudi arabia,SAU,Pfizer/BioNTech,2021-02-07
+66,scotland,,"Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-09
+67,serbia,SRB,"Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",2021-02-10
+69,singapore,SGP,Pfizer/BioNTech,2021-02-10
+70,slovakia,SVK,Pfizer/BioNTech,2021-02-09
+71,slovenia,SVN,"Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-09
+72,spain,ESP,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-09
+74,sweden,SWE,"Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-10
+75,switzerland,CHE,"Moderna, Pfizer/BioNTech",2021-02-07
+77,united arab emirates,ARE,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinopharm/Wuhan, Sputnik V",2021-02-10
+78,united kingdom,GBR,"Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-09
+79,united states,USA,"Moderna, Pfizer/BioNTech",2021-02-10
+80,wales,,"Oxford/AstraZeneca, Pfizer/BioNTech",2021-02-09
