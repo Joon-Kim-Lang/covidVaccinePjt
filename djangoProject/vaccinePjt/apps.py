@@ -6,6 +6,8 @@ import pandas as pd
 import numpy as np
 import datetime
 
+test = '무'
+
 def auto_crawling():
     flag = True
     while(True):
@@ -16,7 +18,7 @@ def auto_crawling():
             #화이자로 바꿔야할 부분
             vcName = "moderna"
             fname = "moderna_tweets_0217.csv"
-        time.sleep(10)
+        time.sleep(20)
         access_token = "1359155396695502849-9feqBFFBtVen65QaiPrrtbUNu3lYDa"
         access_token_secret = "MQTYKlCG3cFiZ20dMbwxw7vjQ3foOo1xNpAZXuvKPBAN2"
         consumer_key = "6Em7KBfky16lnxG0uFgD2l2pX" #api key
@@ -66,7 +68,10 @@ def auto_crawling():
         df = pd.DataFrame(data = searched_tweets, columns = ["id" ,"user_name" ,"user_location", "user_description", "user_created", "user_followers",  "user_friends", "user_favourites","user_verified",  "date",  "text","hashtags", "source", "retweets", "favorites", "is_retweet"])
         df["hashtags"] = df["hashtags"].apply(lambda x: handleHT(x))
         df.drop_duplicates(subset=["user_name","text"],inplace=True,keep="last")
-        df.to_csv(fname,mode='a')
+
+        global test
+        test = df.copy()
+        # df.to_csv(fname,mode='a')
         flag = not flag
 
 
