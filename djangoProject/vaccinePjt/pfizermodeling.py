@@ -38,7 +38,7 @@ def forPfizerInit():
     global Pfizer_country
     global Pfizer_original
     Pfizer_country = pd.read_csv('Pfizer_country.csv')
-    Pfizer_original = pd.read_csv('vaccination_tweets.csv')
+    Pfizer_original = pd.read_csv('vaccination_tweets.csv')[:300]
     global data1_pfizer
     global data2_pfizer
     data1_pfizer,data2_pfizer = pp.preprocess_all(Pfizer_original, Pfizer_country)
