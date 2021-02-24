@@ -2,7 +2,7 @@ from django.apps import AppConfig
 import time
 import pandas as pd
 import numpy as np
-from sentence_transformers import *
+from sentence_transformers import SentenceTransformer, util
 import torch
 
 
@@ -19,7 +19,7 @@ def forInit():
     global Moderna_embeddings
     global model
 
-    model=SentenceTransformer('bert-large-nli-mean-tokens')
+    model=SentenceTransformer('msmarco-distilbert-base-v2')
 
     Pfizer_original = pd.read_csv('Pfizer_original_withscore.csv')
     Moderna_original = pd.read_csv('Moderna_original_withscore.csv')
